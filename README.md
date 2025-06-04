@@ -1,5 +1,6 @@
 # ML-Projects
 This Repository consists of various Machine Learning projects.
+
 Note: All the datasets required for the models are provide as ".csv" files within this repo.
 1. Rock Vs Mine Prediction
 2. Diabetes Prediction
